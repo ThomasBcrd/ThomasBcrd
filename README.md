@@ -1,1 +1,1 @@
-🌱 I’m currently learning C / SQL
+🌱 I’m currently learning C / SQL / JS
